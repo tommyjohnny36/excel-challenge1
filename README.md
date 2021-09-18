@@ -1,0 +1,2 @@
+# excel-challenge1
+ Uses conditional formatting to fill each cell in the state column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live. Uses conditional formatting to fill each cell in the Percent Funded column using a three-color scale. The scale starts at 0 and be a dark shade of red, transitioning to green at 100, and blue at 200.
